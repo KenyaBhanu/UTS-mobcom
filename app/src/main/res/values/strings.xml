@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">UTS Mobcom</string>
+    <string name="mk1">Mobile Computing</string>
+    <string name="mk2">Pengantar Kecerdasan Buatan</string>
+    <string name="mk3">Pemrograman Deklaratif</string>
+    <string name="mk4">Sistem Operasi</string>
+    <string name="mk5">Rekayasa Perangkat Lunak</string>
+    <string name="mk6">Perancangan dan Pemrograman Web</string>
+    <string name="mk7">Desain dan Pemrograman Berorientasi Objek</string>
+    <string name="mk8">Interaksi Manusia</string>
+    <string name="mk9">Data Raya dan Pemrograman</string>
+    <string name="mk10">Basis Data</string>
+    <string name="sks1">3 SKS</string>
+    <string name="sks2">2 SKS</string>
+    <string name="sks3">3 SKS</string>
+    <string name="sks4">3 SKS</string>
+    <string name="sks5">3 SKS</string>
+    <string name="sks6">3 SKS</string>
+    <string name="sks7">2 SKS</string>
+    <string name="sks8">4 SKS</string>
+    <string name="sks9">3 SKS</string>
+    <string name="sks10">3 SKS</string>
 </resources>
